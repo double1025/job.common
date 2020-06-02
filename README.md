@@ -9,7 +9,7 @@ composer require xwx/common
 - 数组处理组件-XArray
 - URL请求组件-WebClient
 - 生成验证-VCode
-- 常用方法
+- 常用方法help
 
 ## Validate
 ```php
